@@ -5,7 +5,7 @@
 <p align="center">📌 S&atilde;o Paulo, Brazil | 🎓 Bachelor's degree in Computer Science</p>
 
 <p align="center">
-  <a href="mailto-viniciuskt0@gmail.com" target="_blank">
+  <a href="mailto:viniciuskt0@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/-viniciuskt0@gmail.com-C34D42?style=flat&amp;logo=Gmail&amp;logoColor=white" />
   </a>
