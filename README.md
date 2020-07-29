@@ -27,9 +27,9 @@
 
 <br />
 
-<div align="center">
-  <h5>
+<p align="center">
+  <h5 align="center">
     Hi there 👋
   </h5>
-  <img src=".github/assets/octocat.png" alt="my octocat" />
-</div>
+  <img src="https://github.com/vini-cius/vini-cius/blob/master/.github/assets/octocat.png" width="400" alt="my octocat" />
+</p>
