@@ -17,15 +17,12 @@
 <h5>&nbsp; &nbsp; &nbsp;Technologies and Tools</h5>
 
 <ul>
-  <li>HTML5</li>
-  <li>CSS</li>
   <li>JavaScript ES6+</li>
   
-  <li>NodeJS</li>
+  <li>Node.js</li>
   <li>ReactJS</li>
-  <li>React Native</li>
   
-  <li>SQL - Microsoft SQL Server&nbsp;</li>
+  <li>T-SQL (Microsoft SQL Server)&nbsp;</li>
 </ul>
 
 <br />
